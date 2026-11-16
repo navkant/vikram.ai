@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "weather": {
+      "type": "stdio",
+      "command": "poetry",
+      "args": [
+        "-C",
+        "/Users/navkanttyagi/Documents/navkant/vikram.ai",
+        "run",
+        "python",
+        "weather.py"
+      ],
+      "env": {}
+    }
+  }
+}
